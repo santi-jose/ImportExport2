@@ -2,7 +2,7 @@
 import { add } from "./add.js";
 import { subtract } from "./subtract.js";
 import { multiply } from "./multiply.js";
-import {divide} from "./divide.js";
+import { divide } from "./divide.js";
 
 // define arrays to test arithmetic functions
 let arr1 = [1, 2, 3, 4, "five"];
